@@ -1,59 +1,38 @@
-
 # Mini Proyectos HTML/CSS/JS
 
 Bienvenido a esta colección de mini proyectos desarrollados con **HTML**, **CSS** y **JavaScript**. El objetivo es practicar fundamentos de front-end mediante ejercicios cortos y directos.
 
 ## 🌟 Proyectos
-- **Calculadora del Amor**  
-  [01 - LoveCalculator](01%20-%20LoveCalculator/) – Calcula un porcentaje de compatibilidad a partir de dos nombres.
 
-- **Calculadora BMI**  
-  [02 - BMI](02%20-%20BMI/) – Calcula el Índice de Masa Corporal con altura y peso.
+Calculadora del Amor (carpeta: 01 - LoveCalculator). Una divertida aplicación para calcular el porcentaje de compatibilidad entre dos personas basándose en sus nombres.
 
-- **TodoList**  
-  [03 - Todo](03-Todo/) – Lista de tareas para agregar, completar y eliminar pendientes.
+Calculadora BMI (carpeta: 02 - BMI). Herramienta que calcula el Índice de Masa Corporal (BMI) a partir de la altura y el peso.
 
-- **Generador RGB**  
-  [04 - RGB](04-RGB/) – Herramienta interactiva para explorar colores en formato RGB.
+TodoList (carpeta: 03-Todo). Aplicación para gestionar tareas diarias, permitiendo agregar, marcar como realizadas y eliminar tareas.
 
-- **Editor de texto**  
-  [05 - Editor](05-Editor/) – Editor sencillo con funciones básicas de edición.
+Generador RGB (carpeta: 04-RGB). Herramienta interactiva para seleccionar y visualizar colores en formato RGB.
 
-- **Login de Netflix (clon)**  
-  [06 - Netflix](06-Netflix/) – Práctica de estilos y formularios replicando la pantalla de inicio de sesión.
+Editor (carpeta: 05-Editor). Editor de texto simple y efectivo con características básicas de edición.
 
-- **Reproductor de Música**  
-  [07 - Reproductor](07-Reproductor/) – Permite cargar y escuchar pistas de música locales.
+Login de Netflix (carpeta: 06-Netflix). Clon de la página de inicio de sesión de Netflix para practicar estilos y formularios.
 
-- **App de Contactos**  
-  [08 - Contactos](08-Contactos/) – Agenda para guardar, buscar y gestionar contactos.
+Reproductor de Música (carpeta: 07-Reproductor). Aplicación que permite subir y escuchar pistas de música locales.
 
-- **Juego de Adivinanzas**  
-  [09 - Adivinanzas](09-Adivinanzas/) – Juego interactivo de acertijos.
+App de Contactos (carpeta: 08-Contactos). Agenda digital para guardar, buscar y gestionar contactos.
 
-- **Profile**  
-  [10 - Profile](10-Profile/) – Template de perfil con datos, foto y enlaces a redes.
+Juego de Adivinanzas (carpeta: 09-Adivinanzas). Juego interactivo donde el usuario intenta adivinar respuestas a diferentes acertijos.
 
-## 🎓 ¿Para quién es?
-Para estudiantes y autodidactas que quieran afianzar conceptos clave de desarrollo web y llevarlos a la práctica con mini ejercicios reales.
+Profile (carpeta: 10-Profile). Template de perfil de usuario para mostrar datos y foto, junto con enlaces a redes sociales.
 
-## 🛠 Tecnologías Utilizadas
-- HTML5  
-- CSS3  
-- JavaScript
+## 🛠 Tecnologías utilizadas
+
+HTML5, CSS3 y JavaScript.
 
 ## 💡 Consideraciones
-- Cada proyecto está en su **propia carpeta** y contiene su `index.html`.  
-- Revisa comentarios en el código para entender cada función y decisión de estilo.  
-- Puedes abrir cada proyecto localmente haciendo doble clic en su `index.html`.
 
-## 🚀 (Opcional) Demo con GitHub Pages
-Si activas **GitHub Pages** (Settings → Pages → *Deploy from branch* → `main`), podrás abrir cada mini-app desde el navegador usando los enlaces de arriba.
+Cada proyecto tiene su propia carpeta con su respectivo index.html. Revisa los comentarios en el código para comprender cada función y característica.
 
 ## 📣 Contacto
-¿Dudas o sugerencias? Abre un **issue** en este repositorio o contáctame por GitHub.
-'@ | Set-Content -Encoding utf8 README.md
 
-git add README.md
-git commit -m "README con índice de mini proyectos"
-git push
+Miguel Gallego Alvarez — miguelgallego2020@gmail.com
+
