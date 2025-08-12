@@ -1,4 +1,4 @@
-@'
+
 # Mini Proyectos HTML/CSS/JS
 
 Bienvenido a esta colección de mini proyectos desarrollados con **HTML**, **CSS** y **JavaScript**. El objetivo es practicar fundamentos de front-end mediante ejercicios cortos y directos.
