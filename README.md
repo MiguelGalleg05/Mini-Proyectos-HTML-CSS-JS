@@ -27,5 +27,5 @@ Cada proyecto es autónomo y está en su propia carpeta con su respectivo `index
 
 ## 📣 Contacto
 
-Miguel Gallego Alvarez — miguelgallego2020@gmail.com
+Miguel Gallego Álvarez — miguelgallego2020@gmail.com
 
